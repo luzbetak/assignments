@@ -100,24 +100,3 @@ The goal of this project is to merge data from three distinct CSV files into one
 4. **Save the Combined Data**:
    - The final cleaned dataset is saved as `combined_dataset.csv`.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Pandas library
-
-### Running the Script
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    ```
-   
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository-name
-    ```
-
-3. Place 
-

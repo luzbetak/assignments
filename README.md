@@ -3,7 +3,7 @@ Data Science Pipelines
 
 This repository includes various data science and analytics projects. Each subdirectory contains scripts, data, and tools for specific projects, ranging from word processing to relational database analytics.
 
-## Project Structure
+## Project Structures
 
 ```
 data-science-pipelines/
